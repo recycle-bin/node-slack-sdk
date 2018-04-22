@@ -1,7 +1,5 @@
 node_modules
 npm-debug.log
-coverage
-dist
 examples/package-lock.json
 
 # nyc test coverage
